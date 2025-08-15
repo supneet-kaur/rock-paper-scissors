@@ -13,7 +13,7 @@ emoji = {
     "Rock": "✊",
     "Paper": "🖐",
     "Scissors": "✌"
-}
+     }
 
 user_score = 0
 comp_score = 0
