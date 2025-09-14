@@ -3,6 +3,15 @@
 
 import random
 print("ROCK-PAPER-SCISSORS: BEST OF 5 🎮")
+print(
+    "📜 GAME RULES 📜\n"
+    "1.Rock ✊ crushes Scissors ✌️\n"
+    "2.Scissors ✌️ cut Paper 🖐\n"
+    "3.Paper 🖐 covers Rock ✊\n"
+    "4.Same choice → It's a Tie 🤝\n"
+    "⭐ Best of 5 rounds — Player with most wins is the Winner 🏆"
+)
+
 
 player_name = input("Enter your name: ")
 print(f"\n Welcome❤, {player_name}! Let's begin....")
